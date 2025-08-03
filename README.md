@@ -6,7 +6,7 @@ A simple and fun web app that fetches a random dog image from the [Dog CEO API](
 
 ## 🚀 Live Demo
 
->
+>https://niraj8607.github.io/Random-Dog-image-Generator/
 
 ---
 
